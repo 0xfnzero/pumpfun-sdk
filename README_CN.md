@@ -4,8 +4,18 @@
 
 一个用于与 PumpFun Solana 程序无缝交互的全面 Rust SDK。该 SDK 提供了一套强大的工具和接口，方便你将 PumpFun 的功能集成到你的应用程序中。
 
+## 这个 SDK 提供什么
 
-# 功能说明
+PumpFun Rust SDK 是面向 Solana 应用的交易与事件订阅工具包，适合需要 Pump.fun 代币创建、买卖交易、日志订阅和低延迟交易提交的应用。
+
+| 范围 | 覆盖内容 |
+|------|----------|
+| Pump.fun 操作 | 创建代币、买入、卖出、按比例卖出 |
+| 事件流 | PumpFun 程序日志订阅和 Yellowstone gRPC 订阅 |
+| 交易提交 | 标准 RPC、Jito bundle、Nextblock、0slot 提交路径 |
+| 使用场景 | Pump.fun 交易 Bot、发射监控、Meme 币工具、低延迟 Solana 交易流程 |
+
+## 功能说明
 1. 为 pump.fun 增加了 `create, buy, sell` 功能。
 2. 增加了 `logs_subscribe`，用于订阅 PumpFun 程序的日志。
 3. 增加了 `yellowstone grpc`，用于订阅 PumpFun 程序的日志。

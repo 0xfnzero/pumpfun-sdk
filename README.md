@@ -4,8 +4,18 @@
 
 A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.
 
+## What This SDK Provides
 
-# Explanation
+PumpFun Rust SDK is a Solana trading and event subscription toolkit for applications that need Pump.fun token creation, buy/sell transactions, log streaming, and low-latency transaction submission.
+
+| Area | Coverage |
+|------|----------|
+| Pump.fun operations | Token create, buy, sell, sell by percent |
+| Event streams | PumpFun program log subscription and Yellowstone gRPC subscriptions |
+| Transaction submission | Standard RPC, Jito bundle, Nextblock, and 0slot submission paths |
+| Use cases | Pump.fun trading bots, launch monitoring, memecoin tooling, low-latency Solana transaction workflows |
+
+## Feature Summary
 1. Add `create, buy, sell` for pump.fun.
 2. Add `logs_subscribe` to subscribe the logs of the PumpFun program.
 3. Add `yellowstone grpc` to subscribe the logs of the PumpFun program.

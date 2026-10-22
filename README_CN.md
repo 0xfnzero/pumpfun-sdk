@@ -1,8 +1,31 @@
-# PumpFun Rust SDK
+<div align="center">
+    <h1>PumpFun Rust SDK</h1>
+    <h3><em>Pump.fun 交易与事件订阅的 Rust 工具包</em></h3>
+</div>
 
-[中文](https://github.com/0xfnzero/pumpfun-sdk/blob/main/README_CN.md) | [English](https://github.com/0xfnzero/pumpfun-sdk/blob/main/README.md) | [Telegram](https://t.me/fnzero_group) | [Discord](https://discord.gg/vuazbGkqQE)
+<p align="center">
+    <strong>一个用于与 PumpFun Solana 程序无缝交互的全面 Rust SDK。该 SDK 提供了一套强大的工具和接口，方便你将 PumpFun 的功能集成到你的应用程序中。</strong>
+</p>
 
-一个用于与 PumpFun Solana 程序无缝交互的全面 Rust SDK。该 SDK 提供了一套强大的工具和接口，方便你将 PumpFun 的功能集成到你的应用程序中。
+<p align="center">
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+    <a href="https://github.com/0xfnzero/pumpfun-sdk"><img src="https://img.shields.io/github/stars/0xfnzero/pumpfun-sdk?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/network"><img src="https://img.shields.io/github/forks/0xfnzero/pumpfun-sdk?style=social" alt="GitHub forks"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&amp;logo=solana&amp;logoColor=white" alt="Solana">
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&amp;logo=grpc&amp;logoColor=white" alt="gRPC">
+</p>
+
+<p align="center">
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/blob/main/README_CN.md">中文</a> |
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/blob/main/README.md">English</a> |
+    <a href="https://fnzero.dev/">Website</a> |
+    <a href="https://t.me/fnzero_group">Telegram</a> |
+    <a href="https://discord.gg/vuazbGkqQE">Discord</a>
+</p>
 
 ## 这个 SDK 提供什么
 

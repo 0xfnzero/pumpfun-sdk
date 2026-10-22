@@ -1,8 +1,31 @@
-# PumpFun Rust SDK
+<div align="center">
+    <h1>PumpFun Rust SDK</h1>
+    <h3><em>Rust tools for Pump.fun trading and event subscriptions</em></h3>
+</div>
 
-[中文](https://github.com/0xfnzero/pumpfun-sdk/blob/main/README_CN.md) | [English](https://github.com/0xfnzero/pumpfun-sdk/blob/main/README.md) | [Telegram](https://t.me/fnzero_group) | [Discord](https://discord.gg/vuazbGkqQE)
+<p align="center">
+    <strong>A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.</strong>
+</p>
 
-A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.
+<p align="center">
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+    <a href="https://github.com/0xfnzero/pumpfun-sdk"><img src="https://img.shields.io/github/stars/0xfnzero/pumpfun-sdk?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/network"><img src="https://img.shields.io/github/forks/0xfnzero/pumpfun-sdk?style=social" alt="GitHub forks"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&amp;logo=solana&amp;logoColor=white" alt="Solana">
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&amp;logo=grpc&amp;logoColor=white" alt="gRPC">
+</p>
+
+<p align="center">
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/blob/main/README_CN.md">中文</a> |
+    <a href="https://github.com/0xfnzero/pumpfun-sdk/blob/main/README.md">English</a> |
+    <a href="https://fnzero.dev/">Website</a> |
+    <a href="https://t.me/fnzero_group">Telegram</a> |
+    <a href="https://discord.gg/vuazbGkqQE">Discord</a>
+</p>
 
 ## What This SDK Provides
 
